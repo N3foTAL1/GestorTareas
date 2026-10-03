@@ -5,9 +5,7 @@ para tener una trazabilidad en tiempo y tearas de los pendientes y su nivel de p
 
 # Se importa el modulo datetime para manejar las fechas
 from ast import Import, match_case
-from multiprocessing import Value
-from pickle import TRUE
-import trace
+
 
 import Historial
 import MotorGestor
